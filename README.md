@@ -20,5 +20,5 @@ OmniView uses **PyQt6**, which conveniently bundles its own FFmpeg decoders. Thi
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/YOUR-USERNAME/OmniView.git](https://github.com/YOUR-USERNAME/OmniView.git)
+git clone [https://github.com/bsraigur/OmniView.git](https://github.com/bsraigur/OmniView.git)
 cd OmniView
